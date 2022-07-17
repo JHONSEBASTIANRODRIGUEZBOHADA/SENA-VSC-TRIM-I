@@ -1,0 +1,47 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url('https://www.hiltonhotels.com/assets/img/hotels/MIAMBHF/MIAMBHF_mast01_hotelexterior01.jpg');
+    background-repeat: no-repeat;
+}
+.barra_principal
+{
+    margin: 0;
+    padding: 0;
+    background-color: lightslategray;
+}
+a:link, a:visited
+{
+    color:white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+a:hover, a:active
+{
+    color: black;
+}
+.barra_del_medio
+{
+    margin: 0;
+    padding: 0.1px 0px;
+    background-color: lightslategray;
+}
+h1
+{
+    text-align: center;
+}
+p
+{
+    text-align: center;
+}
+.barra_informacion_hotel
+{
+    margin: 0;
+    padding: 0;
+    background-color:aquamarine;
+    text-align: center;
+}
